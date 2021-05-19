@@ -1,4 +1,5 @@
 # IoT Edge CI Build Definition
+# This repository is built using Azure DevOps.
 # Build your IoT Edge Modules in Azure DevOps
 # https://aka.ms/yaml
 
